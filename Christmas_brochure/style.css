@@ -216,7 +216,7 @@ font-family: 'Great Vibes', cursive;
     animation:music 2s ease-in-out 1s infinite alternate ;
     position:absolute;
     top: 40rem;
-    left: 100rem;
+    left: 120rem;
 
 }
 @keyframes music {
