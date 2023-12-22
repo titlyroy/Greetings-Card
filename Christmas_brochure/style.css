@@ -212,11 +212,11 @@ font-family: 'Great Vibes', cursive;
     height: 250px;
     width:250px ;
     padding: 50px;
-    background-color: #4b0608;
+    background-color: #4b06088c;
     animation:music 2s ease-in-out 1s infinite alternate ;
     position:absolute;
     top: 40rem;
-    left: 120rem;
+    left: 150rem;
 
 }
 @keyframes music {
