@@ -8,13 +8,9 @@
 div.cover{
     background-image: url(./coverimage.avif);
     background-size: cover;
-    width: 100%;
-    height: 100rem;
-    
     background-repeat: repeat;
     justify-content: center;
     align-items: center;
-
     display: flex;
     
     
@@ -203,25 +199,29 @@ div.christmas{
     text-align: center;
    /* margin:50px; */
     font-size: 80px;
-    color:#faedcd;
+    color:#faedcd77;
     font-family: 'Cookie', cursive;
 font-family: 'Fugaz One', sans-serif;
 font-family: 'Great Vibes', cursive;
-     border: #fdfcdc 5px solid ;
-     border-radius: 50%;
+     
+    border-radius: 50%;
     height: 250px;
     width:250px ;
     padding: 50px;
     background-color: #4b06088c;
-    animation:music 2s ease-in-out 1s infinite alternate ;
+    animation:music 1s ease-in-out 1s infinite alternate ;
     position:absolute;
-    top: 40rem;
-    left: 150rem;
+    top: 3em;
+    left: 8em;
+   
 
 }
+
+
+
 @keyframes music {
-    from {transform:scale(0.8) }
-    to {transform:scale(0.9)}
+    from {transform:scale(0.7) }
+    to {transform:scale(0.8)}
     
 }
 
