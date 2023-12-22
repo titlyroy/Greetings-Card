@@ -9,11 +9,15 @@ div.cover{
     background-image: url(./coverimage.avif);
     background-size: cover;
     width: 100%;
-    height: 100%;
+    height: 100rem;
     
     background-repeat: repeat;
+    justify-content: center;
+    align-items: center;
 
     display: flex;
+    
+    
     
 
 }
@@ -211,8 +215,8 @@ font-family: 'Great Vibes', cursive;
     background-color: #4b0608;
     animation:music 2s ease-in-out 1s infinite alternate ;
     position:absolute;
-    top: 20rem;
-    left: 61rem;
+    top: 1rem;
+    left: 30rem;
 
 }
 @keyframes music {
