@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+div.container {
+  height: 120vh;
+  width: 90vw;
+  color: #efd5c3;
+  font-size: 20px;
+  background-image:url(./erwan-hesry-WPTHZkA-M4I-unsplash.jpg);
+ background-size: cover;
+ 
+
+}
+div#column1,div#column2 , div#column3 {
+  
+  font-family: 'Lobster', sans-serif;
+  text-transform: capitalize;
+  padding-top: 10px;
+ 
+  
+
+  
+}
+
+div.card-body{
+   
+background-color:#5c0000 ;
+color:#efd5c3 ;
+/* border: 2px solid white ; */
+
+
+}
+
+div.heading{
+  font-size: 40px;
+  font-weight: bolder;
+  background-color:#5c0000 ;
+  color:#efd5c3 ;
+ 
+}
